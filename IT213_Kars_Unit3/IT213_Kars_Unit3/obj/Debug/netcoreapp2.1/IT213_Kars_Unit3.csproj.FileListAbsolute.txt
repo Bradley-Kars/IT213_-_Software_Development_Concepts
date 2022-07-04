@@ -1,0 +1,11 @@
+E:\Bradley\Documents\Purdue\IT213\IT213 Repo\IT213_Kars_Unit3\IT213_Kars_Unit3\obj\Debug\netcoreapp2.1\IT213_Kars_Unit3.csprojAssemblyReference.cache
+E:\Bradley\Documents\Purdue\IT213\IT213 Repo\IT213_Kars_Unit3\IT213_Kars_Unit3\obj\Debug\netcoreapp2.1\IT213_Kars_Unit3.csproj.CoreCompileInputs.cache
+E:\Bradley\Documents\Purdue\IT213\IT213 Repo\IT213_Kars_Unit3\IT213_Kars_Unit3\obj\Debug\netcoreapp2.1\IT213_Kars_Unit3.AssemblyInfoInputs.cache
+E:\Bradley\Documents\Purdue\IT213\IT213 Repo\IT213_Kars_Unit3\IT213_Kars_Unit3\obj\Debug\netcoreapp2.1\IT213_Kars_Unit3.AssemblyInfo.cs
+E:\Bradley\Documents\Purdue\IT213\IT213 Repo\IT213_Kars_Unit3\IT213_Kars_Unit3\bin\Debug\netcoreapp2.1\IT213_Kars_Unit3.deps.json
+E:\Bradley\Documents\Purdue\IT213\IT213 Repo\IT213_Kars_Unit3\IT213_Kars_Unit3\bin\Debug\netcoreapp2.1\IT213_Kars_Unit3.runtimeconfig.json
+E:\Bradley\Documents\Purdue\IT213\IT213 Repo\IT213_Kars_Unit3\IT213_Kars_Unit3\bin\Debug\netcoreapp2.1\IT213_Kars_Unit3.runtimeconfig.dev.json
+E:\Bradley\Documents\Purdue\IT213\IT213 Repo\IT213_Kars_Unit3\IT213_Kars_Unit3\bin\Debug\netcoreapp2.1\IT213_Kars_Unit3.dll
+E:\Bradley\Documents\Purdue\IT213\IT213 Repo\IT213_Kars_Unit3\IT213_Kars_Unit3\bin\Debug\netcoreapp2.1\IT213_Kars_Unit3.pdb
+E:\Bradley\Documents\Purdue\IT213\IT213 Repo\IT213_Kars_Unit3\IT213_Kars_Unit3\obj\Debug\netcoreapp2.1\IT213_Kars_Unit3.dll
+E:\Bradley\Documents\Purdue\IT213\IT213 Repo\IT213_Kars_Unit3\IT213_Kars_Unit3\obj\Debug\netcoreapp2.1\IT213_Kars_Unit3.pdb
